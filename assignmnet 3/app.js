@@ -1,0 +1,5 @@
+window.alert("Iam 15 years old")
+window.alert("you have visited the site 5 times")
+document.write("my birth yea is 1990")
+document.write("dates type of many declared variable is number")
+document.write("Jhon Doe Orderd T Shirts on XYZ Clothing Store")
